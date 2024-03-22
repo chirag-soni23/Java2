@@ -1,3 +1,5 @@
+package Challenge15.SingleThread;
+
 public class PrintNumber implements Runnable {
        @Override
        public void run() {
