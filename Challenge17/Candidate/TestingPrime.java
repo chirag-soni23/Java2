@@ -1,4 +1,4 @@
-package Challenge17.Candidate;
+package Candidate;
 
 public class TestingPrime {
        public static void main(String[] args) {
