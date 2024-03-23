@@ -1,4 +1,4 @@
-package FunctionalProgramming;
+
 
 public class TestingLmada {
        public static void main(String[] args) {
